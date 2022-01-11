@@ -1,0 +1,12 @@
+name: CVNubman
+version: 1.0
+api-version: 1.16
+main: org.cubeville.cvnubman.CVNubman
+description: Nubman minigame plugin
+author: FrediW
+
+commands:
+  nubman:
+    description: Set the current nubman player
+    usage: /nubman
+    permission: cvnubman.nubman
